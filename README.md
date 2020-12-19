@@ -1,1 +1,1 @@
-# 10D_of_Stats-HackerRank
+# Data_620
